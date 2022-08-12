@@ -1,0 +1,5 @@
+C:\Users\BlekeWind\Desktop\8\Task--8\obj\Debug\net6.0\Task--8.csproj.AssemblyReference.cache
+C:\Users\BlekeWind\Desktop\8\Task--8\obj\Debug\net6.0\Task--8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BlekeWind\Desktop\8\Task--8\obj\Debug\net6.0\Task--8.AssemblyInfoInputs.cache
+C:\Users\BlekeWind\Desktop\8\Task--8\obj\Debug\net6.0\Task--8.AssemblyInfo.cs
+C:\Users\BlekeWind\Desktop\8\Task--8\obj\Debug\net6.0\Task--8.csproj.CoreCompileInputs.cache
